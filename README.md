@@ -1,2 +1,3 @@
 # prometheus-k8s
-My take on prometheus for a baremetal k8s cluster
+Repo is a living collection of files to be consumed by my baremetal cluster.
+
